@@ -179,9 +179,7 @@ footer .container .content .left .image {
     main .container {
         max-width: 100%;
     }
-    html {
-        font-size: 12px;
-    }
+
     header .second div h1 {
         font-size: 8rem;
     }
@@ -204,7 +202,7 @@ footer .container .content .left .image {
 }
 @media (max-width: 767px) {
     html {
-        font-size: 10px;
+        font-size: 12px;
     }
     header .second div h1 {
         font-size: 7rem;
